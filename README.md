@@ -1,17 +1,17 @@
-<h1 align="center"> Rust Cheat Checker </h1>
+<h1 align="center"> LS Cheat Check </h1>
 
-## What this is a programm
-This programm needed to check computer on prohibited application. She is developed for servers a game rust. And checks computer to having prohibited programm :
-- Chaet
-- Macros
+## Šta je ovaj program?
+Ovaj program je za provjeru Igrača za čit, Ovaj program sam napravio za server LordSide. Ovaj program traži :
+- Cheat
+- Macro Aplikacije
 
-It's programm can do following:
-- analize all usb deviece and show there
-- show all info to current profile (steam)
-- show all profiles (steam)
+Ovaj program može:
+- Analizirat usb uređaje
+- Pokazat sve podatke akkaunta (steam)
+- Pokazat sve akkaunte (steam)
 
-## How to use
+## Kako koristit?
 
-- Move to release and download last version.
-- Run .exe file.
-- And the end
+- Kliknite na Release i skinite najnoviju verziju.
+- Pokrenite LSCC.exe kao Administrator.
+- Srecno.
